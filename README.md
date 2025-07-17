@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Jean Cruz
+## 👋 Olá! Eu sou o Jean Ciley Cruz Jr.
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e apaixonado por tecnologia.  
 Atualmente, estou focado em construir uma base sólida em **programação back-end**.
