@@ -1,7 +1,6 @@
 ## 👋 Olá! Eu sou o Jean Ciley Cruz Jr.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e apaixonado por tecnologia.  
-Atualmente, estou focado em construir uma base sólida em **programação back-end**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e apaixonado por tecnologia. 
 
 💡 Acredito que aprender programação vai muito além de código — é sobre **resolver problemas**, **pensar de forma lógica** e **buscar evolução constante**.
 
@@ -11,7 +10,7 @@ Atualmente, estou focado em construir uma base sólida em **programação back-e
 
 - 🐍 **Python** (estrutura de dados, lógica, automação)
 - 🔧 **Git e GitHub** (controle de versões)
-- 🔍 Em breve: **Flask**, **MySQL**, **API REST**
+- 🔧 **JavaScript** (básico)
 
 ---
 
@@ -31,7 +30,7 @@ Atualmente, estou focado em construir uma base sólida em **programação back-e
 ### 📌 Próximos passos:
 
 - Criar projetos práticos (CRUD, automações, APIs)  
-- Aprender frameworks back-end  
+- Aprender frameworks 
 - Conquistar minha primeira oportunidade como desenvolvedor
 
 ---
