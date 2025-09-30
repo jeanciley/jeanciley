@@ -10,7 +10,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e apaixo
 
 - 🐍 **Python** (estrutura de dados, lógica, automação)
 - 🔧 **Git e GitHub** (controle de versões)
-- 🔧 **JavaScript** (básico)
+- 🔧 **Java** (básico)
 
 ---
 
@@ -18,6 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e apaixo
 
 - ✅ **Curso de Git e GitHub** – Curso em Vídeo  
 - ✅ **Mundo 1, 2 e 3 de Python** – Curso em Vídeo
+- ✅ **Java (básico)** - Curso em Vídeo
 
 ---
 
@@ -29,8 +30,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e apaixo
 
 ### 📌 Próximos passos:
 
-- Criar projetos práticos (CRUD, automações, APIs)  
-- Aprender frameworks 
+- Criar mais projetos práticos 
+- Aprender banco de dados (MySQL, Postgres)
 - Conquistar minha primeira oportunidade como desenvolvedor
 
 ---
